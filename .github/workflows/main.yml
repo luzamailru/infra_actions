@@ -63,4 +63,4 @@ jobs:
           uses: docker/build-push-action@v2 
           with:
             push: true
-            tags: luza1973:latest
+            tags: luza1973/api_yamdb:latest
